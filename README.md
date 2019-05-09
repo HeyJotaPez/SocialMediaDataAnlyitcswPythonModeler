@@ -1,5 +1,5 @@
-# Social Media Data Analytics Libreria para IBM SPSS Modeler
-Social Media Data Analytics Usando Python and R.
+# Python and R
+Social Media Data Analytics Using Python and R.
 
 
 We are surrounded by both structured and unstructured data which are extracted using python packages for various purposes from social media.Ex- youtube, twitter, yelp etc. Followed by correlation analysis and regression. Data Analytics and Visualization go hand-in-hand. 
