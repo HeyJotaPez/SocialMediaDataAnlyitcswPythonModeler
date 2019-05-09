@@ -1,4 +1,4 @@
-# Python and R
+# Social Media Data Analytics Libreria para IBM SPSS Modeler
 Social Media Data Analytics Usando Python and R.
 
 
